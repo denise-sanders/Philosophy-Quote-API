@@ -1,0 +1,5 @@
+sqldiff
+sqlite3
+venv
+*.db
+.DS_Store
